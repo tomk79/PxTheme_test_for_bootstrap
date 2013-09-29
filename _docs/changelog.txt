@@ -1,0 +1,7 @@
+/**
+ * PxFW Theme "test_for_bootstrap"
+ */
+
+[test_for_bootstrap 0.1.0a1 (2013/**/**)]
+
+- 初回リリース。
